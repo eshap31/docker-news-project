@@ -9,7 +9,8 @@ This project consists of 5 micro services, that each run in their own docker con
 - Frontend: a service that exposes a fastapi application that allows users to search through articles by the source. This service communicates with the mongodb
 
 ## Prerequesites
-- docker version 28 and up
+- docker version 28 and higher
+- docker-compose version 1.29 and higher
 - wsl or linux machine
 
 ## Usage
