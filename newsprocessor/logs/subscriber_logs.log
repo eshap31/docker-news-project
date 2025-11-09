@@ -1,0 +1,515 @@
+- DEBUG    - redis_connector.py - 2025-11-04 12:57:11,340 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 12:57:11,449 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 12:57:11,449 - Connected to redis service. connection details: True
+- DEBUG    - redis_connector.py - 2025-11-04 13:14:16,486 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 13:14:16,553 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 13:14:16,554 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 13:14:16,555 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 13:14:16,556 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 13:14:16,556 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 13:15:01,523 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 13:15:01,545 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 13:15:01,545 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 13:15:01,546 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 13:15:01,546 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 13:15:01,546 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 13:35:42,096 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 13:35:42,112 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 13:35:42,112 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 13:35:42,113 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 13:35:42,114 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 13:35:42,114 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 13:36:04,731 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 13:36:04,748 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 13:36:04,748 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 13:36:04,751 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 13:36:04,751 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 13:36:04,751 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 13:36:13,524 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 13:36:13,538 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 13:36:13,538 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 13:36:13,539 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 13:36:13,539 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 13:36:13,539 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 13:38:43,720 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 13:38:43,737 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 13:38:43,737 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 13:38:43,739 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 13:38:43,739 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 13:38:43,739 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:13:59,097 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:13:59,115 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:13:59,115 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:13:59,117 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:13:59,117 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:13:59,117 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:20,973 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:20,986 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:20,986 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:20,987 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:20,987 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:20,987 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:22,306 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:22,325 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:22,326 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:22,327 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:22,327 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:22,328 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:23,644 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:23,658 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:23,658 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:23,659 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:23,659 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:23,659 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:24,752 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:24,770 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:24,770 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:24,771 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:24,771 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:24,772 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:26,578 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:26,590 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:26,590 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:26,591 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:26,591 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:26,591 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:27,651 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:27,663 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:27,663 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:27,664 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:27,664 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:27,664 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:29,323 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:29,334 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:29,334 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:29,335 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:29,336 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:29,336 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:30,358 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:30,371 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:30,372 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:30,373 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:30,374 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:30,374 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:33,053 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:33,067 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:33,067 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:33,068 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:33,068 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:33,068 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:34,935 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:14:34,945 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:14:34,945 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:34,946 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:14:34,946 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:14:34,947 - successfully got the value of redis_topic
+- DEBUG    - redis_connector.py - 2025-11-04 14:15:04,989 - created redis cli object
+- DEBUG    - redis_connector.py - 2025-11-04 14:15:05,005 - REDIS connection: True
+- INFO     - redis_connector.py - 2025-11-04 14:15:05,005 - Connected to redis service. connection details: True
+- DEBUG    - json_file_helper.py - 2025-11-04 14:15:05,006 - Successfully opened json file - ./configurations/config.json
+- DEBUG    - json_file_helper.py - 2025-11-04 14:15:05,006 - successfully got contents of json file: ./configurations/config.json
+- DEBUG    - load_variables.py - 2025-11-04 14:15:05,006 - successfully got the value of redis_topic
+- INFO     - redis_connector.py - 2025-11-04 14:15:39,096 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 14:16:01,370 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 14:17:03,505 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 14:18:37,045 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 14:20:47,395 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 14:21:37,761 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 14:23:51,469 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 16:46:54,225 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 16:53:02,214 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 17:00:23,606 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 17:32:46,300 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 17:52:13,671 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-04 19:31:49,324 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 14:29:21,901 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 14:31:51,704 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 14:32:17,101 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 14:33:16,656 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 14:35:53,388 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 14:36:39,631 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 14:41:46,760 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 15:00:30,159 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 19:20:21,465 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 19:27:14,547 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 19:36:45,547 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 19:58:17,409 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 20:02:40,834 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-05 20:09:12,849 - Connected to redis service. connection details: True
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,133 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beae'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,135 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beaf'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,135 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,144 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,144 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,144 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,144 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,144 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,159 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,159 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,159 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,159 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beb9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,159 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83beba'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,172 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83bebb'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,175 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83bebc'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,175 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83bebd'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,175 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83bebe'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-05 20:09:17,175 - added document to collection, the id is: InsertOneResult(ObjectId('690b92cdb19dea90de83bebf'), acknowledged=True)
+- INFO     - redis_connector.py - 2025-11-06 18:55:30,739 - Connected to redis service. connection details: True
+- INFO     - redis_connector.py - 2025-11-06 19:02:09,428 - Connected to redis service. connection details: True
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,590 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918060'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,593 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918061'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,599 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918062'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,600 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918063'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,600 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918064'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,609 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918065'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,613 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918066'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,616 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918067'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,620 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918068'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,624 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918069'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,629 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a091806a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,640 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a091806b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,645 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a091806c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,649 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a091806d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,649 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a091806e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,649 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a091806f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,657 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918070'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,657 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918071'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:02:37,657 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4adeb1564a6a0918072'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,793 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918073'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,799 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918074'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,805 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918075'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,812 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918076'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,817 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918077'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,820 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918078'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,825 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918079'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,857 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a091807a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,862 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a091807b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,865 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a091807c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,874 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a091807d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,895 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a091807e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,900 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a091807f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,905 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918080'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,912 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918081'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,948 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918082'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,948 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918083'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,956 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918084'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:03:24,965 - added document to collection, the id is: InsertOneResult(ObjectId('690cd4dceb1564a6a0918085'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,093 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918086'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,100 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918087'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,104 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918088'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,109 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918089'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,117 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a091808a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,125 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a091808b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,132 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a091808c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,138 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a091808d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,143 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a091808e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,148 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a091808f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,153 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918090'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,156 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918091'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,166 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918092'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,174 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918093'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,179 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918094'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,182 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918095'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,182 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918096'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,204 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918097'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:11,212 - added document to collection, the id is: InsertOneResult(ObjectId('690cd50beb1564a6a0918098'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,043 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a0918099'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,049 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a091809a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,055 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a091809b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,060 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a091809c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,067 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a091809d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,071 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a091809e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,071 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a091809f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,071 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,088 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,088 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,096 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,096 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,104 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,104 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,104 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,113 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,113 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180a9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,113 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180aa'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:04:57,121 - added document to collection, the id is: InsertOneResult(ObjectId('690cd539eb1564a6a09180ab'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:43,964 - added document to collection, the id is: InsertOneResult(ObjectId('690cd567eb1564a6a09180ac'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:43,969 - added document to collection, the id is: InsertOneResult(ObjectId('690cd567eb1564a6a09180ad'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:43,969 - added document to collection, the id is: InsertOneResult(ObjectId('690cd567eb1564a6a09180ae'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:43,976 - added document to collection, the id is: InsertOneResult(ObjectId('690cd567eb1564a6a09180af'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,000 - added document to collection, the id is: InsertOneResult(ObjectId('690cd567eb1564a6a09180b0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,007 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,011 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,011 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,040 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,043 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,043 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,043 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,054 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,058 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180b9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,060 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180ba'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,064 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180bb'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,066 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180bc'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,070 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180bd'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:05:44,074 - added document to collection, the id is: InsertOneResult(ObjectId('690cd568eb1564a6a09180be'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,172 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180bf'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,177 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,181 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,183 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,185 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,188 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,188 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,193 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,195 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,196 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,196 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180c9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,202 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180ca'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,202 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180cb'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,202 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180cc'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,210 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180cd'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,218 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180ce'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,218 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180cf'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,218 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180d0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:06:30,227 - added document to collection, the id is: InsertOneResult(ObjectId('690cd596eb1564a6a09180d1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,658 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180d2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,667 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180d3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,670 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180d4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,670 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180d5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,674 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180d6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,677 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180d7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,679 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180d8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,682 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180d9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,684 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180da'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,687 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180db'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,687 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180dc'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,691 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180dd'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,699 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180de'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,702 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180df'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,702 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180e0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,707 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180e1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,707 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180e2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,707 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180e3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:07:16,715 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5c4eb1564a6a09180e4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,762 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180e5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,765 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180e6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,768 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180e7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,772 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180e8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,776 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180e9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,780 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180ea'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,782 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180eb'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,782 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180ec'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,788 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180ed'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,790 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180ee'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,790 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180ef'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,793 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180f0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,796 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180f1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,796 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180f2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,796 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180f3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,796 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180f4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,805 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180f5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,805 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180f6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:02,805 - added document to collection, the id is: InsertOneResult(ObjectId('690cd5f2eb1564a6a09180f7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,671 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a09180f8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,675 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a09180f9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,675 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a09180fa'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,681 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a09180fb'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,681 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a09180fc'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,689 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a09180fd'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,693 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a09180fe'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,696 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a09180ff'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,698 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918100'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,700 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918101'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,703 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918102'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,714 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918103'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,714 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918104'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,714 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918105'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,720 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918106'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,720 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918107'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,720 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918108'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,728 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a0918109'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:08:48,728 - added document to collection, the id is: InsertOneResult(ObjectId('690cd620eb1564a6a091810a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,537 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091810b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,545 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091810c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,552 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091810d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,561 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091810e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,565 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091810f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,568 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918110'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,571 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918111'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,571 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918112'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,577 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918113'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,580 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918114'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,580 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918115'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,580 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918116'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,588 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918117'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,588 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918118'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,592 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a0918119'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,592 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091811a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,596 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091811b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,596 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091811c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:09:34,596 - added document to collection, the id is: InsertOneResult(ObjectId('690cd64eeb1564a6a091811d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,788 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a091811e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,795 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a091811f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,798 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918120'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,803 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918121'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,803 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918122'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,810 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918123'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,816 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918124'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,818 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918125'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,822 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918126'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,823 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918127'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,826 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918128'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,826 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918129'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,826 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a091812a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,826 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a091812b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,835 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a091812c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,835 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a091812d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,835 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a091812e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,843 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a091812f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:10:20,843 - added document to collection, the id is: InsertOneResult(ObjectId('690cd67ceb1564a6a0918130'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,738 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918131'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,744 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918132'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,748 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918133'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,754 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918134'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,761 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918135'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,765 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918136'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,765 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918137'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,771 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918138'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,771 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918139'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,771 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a091813a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,779 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a091813b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,779 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a091813c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,779 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a091813d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,787 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a091813e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,787 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a091813f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,787 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918140'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,796 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918141'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,796 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918142'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:06,796 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6aaeb1564a6a0918143'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,532 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918144'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,542 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918145'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,547 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918146'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,551 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918147'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,558 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918148'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,563 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918149'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,568 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a091814a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,568 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a091814b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,568 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a091814c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,576 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a091814d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,583 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a091814e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,589 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a091814f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,591 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918150'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,601 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918151'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,610 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918152'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,610 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918153'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,617 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918154'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,619 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918155'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:11:52,619 - added document to collection, the id is: InsertOneResult(ObjectId('690cd6d8eb1564a6a0918156'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,628 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918157'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,628 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918158'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,636 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918159'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,636 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a091815a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,636 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a091815b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,645 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a091815c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,647 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a091815d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,652 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a091815e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,652 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a091815f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,652 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918160'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,652 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918161'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,652 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918162'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,661 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918163'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,661 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918164'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,661 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918165'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,661 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918166'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,669 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918167'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,669 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918168'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:12:38,669 - added document to collection, the id is: InsertOneResult(ObjectId('690cd706eb1564a6a0918169'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,723 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a091816a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,727 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a091816b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,730 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a091816c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,732 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a091816d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,736 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a091816e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,741 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a091816f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,741 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918170'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,745 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918171'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,749 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918172'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,754 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918173'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,757 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918174'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,761 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918175'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,765 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918176'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,767 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918177'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,773 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918178'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,777 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a0918179'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,781 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a091817a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:13:25,781 - added document to collection, the id is: InsertOneResult(ObjectId('690cd735eb1564a6a091817b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,683 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a091817c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,687 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a091817d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,687 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a091817e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,697 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a091817f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,703 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918180'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,713 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918181'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,719 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918182'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,721 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918183'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,725 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918184'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,732 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918185'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,736 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918186'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,740 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918187'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,740 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918188'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,740 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a0918189'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,749 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a091818a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,749 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a091818b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,749 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a091818c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:11,756 - added document to collection, the id is: InsertOneResult(ObjectId('690cd763eb1564a6a091818d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,469 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a091818e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,474 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a091818f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,474 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918190'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,482 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918191'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,489 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918192'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,489 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918193'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,489 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918194'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,498 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918195'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,498 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918196'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,506 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918197'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,511 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918198'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,513 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a0918199'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,513 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a091819a'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,522 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a091819b'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,522 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a091819c'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,530 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a091819d'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,535 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a091819e'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:14:58,540 - added document to collection, the id is: InsertOneResult(ObjectId('690cd792eb1564a6a091819f'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,286 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,291 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,294 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,303 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,307 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,312 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,318 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,324 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,328 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,330 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181a9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,332 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181aa'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,332 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181ab'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,332 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181ac'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,332 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181ad'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,340 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181ae'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,340 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181af'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,340 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181b0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:15:44,340 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7c0eb1564a6a09181b1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,154 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181b2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,162 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181b3'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,168 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181b4'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,172 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181b5'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,176 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181b6'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,181 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181b7'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,181 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181b8'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,187 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181b9'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,189 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181ba'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,191 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181bb'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,194 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181bc'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,194 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181bd'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,202 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181be'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,202 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181bf'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,202 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181c0'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,210 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181c1'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,210 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181c2'), acknowledged=True)
+- INFO     - mongodb_insert_object.py - 2025-11-06 19:16:30,210 - added document to collection, the id is: InsertOneResult(ObjectId('690cd7eeeb1564a6a09181c3'), acknowledged=True)
+- INFO     - redis_connector.py - 2025-11-07 14:47:22,084 - Connected to redis service. connection details: True

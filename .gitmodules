@@ -1,0 +1,9 @@
+[submodule "newsprocessor"]
+	path = newsprocessor
+	url = https://github.com/eshap31/newsprocessor
+[submodule "newsfetcher"]
+	path = newsfetcher
+	url = https://github.com/eshap31/newsfetcher
+[submodule "source-request-frontend"]
+	path = source-request-frontend
+	url = https://github.com/eshap31/source-request-frontend

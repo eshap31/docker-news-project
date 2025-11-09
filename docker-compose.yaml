@@ -1,0 +1,80 @@
+services:
+  pubsub:
+    image: redis:latest
+    networks:
+      - news_net
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  db:
+    image: mongodb/mongodb-community-server:latest
+    volumes:
+      - mongodb:/data/db
+    networks:
+      - news_net
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+
+  frontend:
+    image: frontend:v1
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+    networks:
+      - news_net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  news-processor:
+    image: news-processor:v1
+    depends_on:
+      db:
+        condition: service_healthy
+      pubsub:
+        condition: service_healthy
+    networks:
+      - news_net
+    healthcheck:
+      test: ["CMD", "python", "healthcheck.py"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    
+
+  news-fetcher:
+    image: news-fetcher:v1
+    depends_on:
+      pubsub:
+        condition: service_healthy
+    networks:
+      - news_net
+    healthcheck:
+      test: ["CMD", "python", "healthcheck.py"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  mongodb:
+
+networks:
+  news_net:
+    driver: bridge
+

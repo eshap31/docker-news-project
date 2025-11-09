@@ -1,0 +1,12 @@
+{
+  "query_params": {
+    "sources": "",
+    "language": "en",
+    "category": "technology",
+    "q": "",
+    "country": ""
+  },
+  "main_url": "https://newsapi.org/v1/articles",
+  "redis_topic": "news-topic",
+  "publishing_frequency": 45
+}

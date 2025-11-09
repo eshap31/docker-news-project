@@ -1,0 +1,61 @@
+- INFO     - main.py - 2025-11-05 14:35:04,437 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 14:35:04,452 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 14:35:45,177 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 14:35:45,190 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 14:36:04,886 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 14:36:04,894 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 14:36:29,257 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 14:36:29,265 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 14:36:44,640 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 14:36:44,654 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 14:41:53,478 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 14:41:53,486 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 15:08:26,417 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 15:08:26,442 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 15:13:33,740 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 15:13:33,786 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 15:14:51,325 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 15:14:51,339 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 15:22:20,860 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 15:22:20,887 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 15:42:00,889 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 15:42:00,922 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 16:46:11,118 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 16:46:11,442 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 17:07:23,881 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 17:07:23,923 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 17:12:27,642 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 17:12:27,659 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 17:12:45,502 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 17:12:45,515 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 17:29:11,851 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 17:29:11,984 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 17:54:30,238 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 17:54:30,312 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 17:55:29,792 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 17:55:29,807 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 17:56:04,508 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 17:56:04,521 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 17:57:02,659 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 17:57:02,671 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 18:19:29,984 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 18:19:30,024 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 18:53:30,421 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 18:53:30,444 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 19:19:52,917 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 19:19:53,378 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 19:20:03,411 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 19:20:03,429 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 19:20:28,424 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 19:20:28,451 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 19:22:17,696 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 19:22:17,714 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-05 19:27:20,557 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-05 19:27:20,571 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-06 19:01:53,483 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-06 19:01:53,492 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-06 19:02:36,714 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-06 19:02:36,740 - Connected to redis service. connection details: True
+- INFO     - main.py - 2025-11-09 11:39:34,993 - Initialized News API
+- INFO     - main.py - 2025-11-09 11:44:34,340 - Initialized News API
+- INFO     - redis_connector.py - 2025-11-09 13:05:27,053 - Connected to redis service. connection details: True

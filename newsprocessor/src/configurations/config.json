@@ -1,0 +1,15 @@
+{
+  "redis_topic": "news-topic",
+  "tech_words": [
+    "cloud", "computer", "software", "digital",
+    "cache", "developer", "development", "server",
+    "electronics", "data", "cookies", "encryption",
+    "internet", "hardware", "cpu", "it", "elon musk",
+    "nvidia", "tesla", "nasdaq", "tech", "technology",
+    "amazon", "firewall", "checkpoint", "cyber", "cyber-security",
+    "netflix", "google", "youtube", "salesforce", "silicon valley",
+    "processor", "chip", "cloud", "cloud security", "hi-tech",
+    "compute", "high tech", "ai", "artificial intelligence",
+    "openai", "chatgpt", "anthropic", "claude", "gpu"
+  ]
+}

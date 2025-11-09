@@ -1,0 +1,1 @@
+from continuous_publishing.publish_news import PublishNewsContinuously
