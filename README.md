@@ -19,6 +19,9 @@ git clone https://github.com/eshap31/docker-news-project
 cd docker-news-project
 ```
 
+News-Fetcher setup:
+- in the newsfetcher/.env file, make sure to place your api key for the [newsapi](https://newsapi.org/) in the NEWSAPI_KEY variable
+
 Building News-Fetcher image
 ```bash
 cd newsfetcher
